@@ -1,0 +1,12 @@
+# Fichier .gitignore pour Flutter
+.dart_tool/
+.packages
+.buildlog/
+.pub/
+build/
+.idea/
+.vscode/
+android/.gradle/
+*.iml
+*.log
+*.lock
